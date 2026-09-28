@@ -1,0 +1,1434 @@
+{
+  "generated": "2026-09-28T12:33:16.604Z",
+  "tags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21a",
+    "wcag21aa"
+  ],
+  "pages": [
+    {
+      "url": "https://cncc.edu/",
+      "title": "Home",
+      "finalUrl": "https://cncc.edu/",
+      "slug": "home",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            ".carousel-item.active > div > .video-caption > h2",
+            ".lead-paragraph:nth-child(2) > span"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/accessibility-statement",
+      "title": "Accessibility Statement & Reporting",
+      "finalUrl": "https://cncc.edu/about/accessibility-statement",
+      "slug": "about-accessibility-statement",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/accreditation",
+      "title": "Accreditation",
+      "finalUrl": "https://cncc.edu/about/accreditation",
+      "slug": "about-accreditation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/cncc_graduation_ceremonies",
+      "title": "CNCC Graduation Ceremonies",
+      "finalUrl": "https://cncc.edu/about/cncc_graduation_ceremonies",
+      "slug": "about-cncc-graduation-ceremonies",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/foundation/index",
+      "title": "Foundation",
+      "finalUrl": "https://cncc.edu/about/foundation/index",
+      "slug": "about-foundation-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/human-resources/career-opportunities",
+      "title": "Career Opportunities",
+      "finalUrl": "https://cncc.edu/about/human-resources/career-opportunities",
+      "slug": "about-human-resources-career-opportunities",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/human-resources/index",
+      "title": "Human Resources",
+      "finalUrl": "https://cncc.edu/about/human-resources/index",
+      "slug": "about-human-resources-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/index",
+      "title": "About",
+      "finalUrl": "https://cncc.edu/about/index",
+      "slug": "about-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/institutional-effectiveness/index",
+      "title": "Institutional Effectiveness",
+      "finalUrl": "https://cncc.edu/about/institutional-effectiveness/index",
+      "slug": "about-institutional-effectiveness-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/locations",
+      "title": "Locations",
+      "finalUrl": "https://cncc.edu/about/locations",
+      "slug": "about-locations",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/mission-vision-strategic-plan",
+      "title": "CNCC Mission, Vision & Strategic Plan",
+      "finalUrl": "https://cncc.edu/about/mission-vision-strategic-plan",
+      "slug": "about-mission-vision-strategic-plan",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/president",
+      "title": "Office of the President",
+      "finalUrl": "https://cncc.edu/about/president",
+      "slug": "about-president",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        },
+        {
+          "id": "th-has-data-cells",
+          "impact": "serious",
+          "help": "Table headers in a data table must refer to data cells",
+          "wcag": [
+            "wcag2a",
+            "wcag131"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "table"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/academics/academic-advising",
+      "title": "Academic Advising",
+      "finalUrl": "https://cncc.edu/academics/academic-advising",
+      "slug": "academics-academic-advising",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/academic-assessment",
+      "title": "Academic Assessment",
+      "finalUrl": "https://cncc.edu/academics/academic-assessment",
+      "slug": "academics-academic-assessment",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/academic-calendars",
+      "title": "Academic Calendars",
+      "finalUrl": "https://cncc.edu/academics/academic-calendars",
+      "slug": "academics-academic-calendars",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/alternative-credit-project",
+      "title": "Alternative Credit Project",
+      "finalUrl": "https://cncc.edu/academics/alternative-credit-project",
+      "slug": "academics-alternative-credit-project",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/bookstore",
+      "title": "CNCC Bookstore",
+      "finalUrl": "https://cncc.edu/academics/bookstore",
+      "slug": "academics-bookstore",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/academics/concurrent-enrollment/index",
+      "title": "Concurrent Enrollment",
+      "finalUrl": "https://cncc.edu/academics/concurrent-enrollment/index",
+      "slug": "academics-concurrent-enrollment-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/course-schedules",
+      "title": "Course Schedules",
+      "finalUrl": "https://cncc.edu/academics/course-schedules",
+      "slug": "academics-course-schedules",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/gateway",
+      "title": "Gateway",
+      "finalUrl": "https://cncc.edu/academics/gateway",
+      "slug": "academics-gateway",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/index",
+      "title": "Academics",
+      "finalUrl": "https://cncc.edu/academics/index",
+      "slug": "academics-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/academics/library",
+      "title": "Library / Study Center",
+      "finalUrl": "https://cncc.edu/academics/library",
+      "slug": "academics-library",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/academics/non-discrimination-title-ix",
+      "title": "Non-Discrimination/Title IX",
+      "finalUrl": "https://cncc.edu/academics/non-discrimination-title-ix",
+      "slug": "academics-non-discrimination-title-ix",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/report-an-incident-or-concern",
+      "title": "Report an incident, concern, complaint or request an accommodation",
+      "finalUrl": "https://cncc.edu/academics/report-an-incident-or-concern",
+      "slug": "academics-report-an-incident-or-concern",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/transcript-request",
+      "title": "Transcript Request",
+      "finalUrl": "https://cncc.edu/academics/transcript-request",
+      "slug": "academics-transcript-request",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/admissions-checklist",
+      "title": "Admissions Checklist",
+      "finalUrl": "https://cncc.edu/admissions/admissions-checklist",
+      "slug": "admissions-admissions-checklist",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/admissions-more",
+      "title": "Admissions & More",
+      "finalUrl": "https://cncc.edu/admissions/admissions-more",
+      "slug": "admissions-admissions-more",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/apply",
+      "title": "Apply to CNCC",
+      "finalUrl": "https://cncc.edu/admissions/apply",
+      "slug": "admissions-apply",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/apply-today",
+      "title": "APPLY TODAY!",
+      "finalUrl": "https://cncc.edu/admissions/apply-today",
+      "slug": "admissions-apply-today",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program",
+      "title": "Bridge to Bachelor's Degree Program",
+      "finalUrl": "https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program",
+      "slug": "admissions-bridge-to-bachelor-s-degree-program",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/admissions/financial-aid/index",
+      "title": "Financial Aid",
+      "finalUrl": "https://cncc.edu/admissions/financial-aid/index",
+      "slug": "admissions-financial-aid-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/admissions/financial-aid/npcalc_23-24.html",
+      "title": "Net Price Calculator",
+      "finalUrl": "https://cncc.edu/admissions/financial-aid/npcalc_23-24.html",
+      "slug": "admissions-financial-aid-npcalc-23-24-html",
+      "violations": [
+        {
+          "id": "aria-required-parent",
+          "impact": "critical",
+          "help": "Certain ARIA roles must be contained by particular parents",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-parent?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag131"
+          ],
+          "nodes": 6,
+          "firstTargets": [
+            ".active",
+            ".npc-step[title=\"\"][role=\"option\"]:nth-child(2)",
+            ".npc-step[title=\"\"][role=\"option\"]:nth-child(3)",
+            ".npc-step[title=\"\"][role=\"option\"]:nth-child(4)",
+            ".npc-step[title=\"\"][role=\"option\"]:nth-child(5)"
+          ]
+        }
+      ],
+      "violationTotal": 6,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/financial-aid/scholarship-central",
+      "title": "Scholarship Central",
+      "finalUrl": "https://cncc.edu/admissions/financial-aid/scholarship-central",
+      "slug": "admissions-financial-aid-scholarship-central",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/admissions/international-admissions",
+      "title": "International Admissions",
+      "finalUrl": "https://cncc.edu/admissions/international-admissions",
+      "slug": "admissions-international-admissions",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/military-and-veterans",
+      "title": "Military and Veterans",
+      "finalUrl": "https://cncc.edu/admissions/military-and-veterans",
+      "slug": "admissions-military-and-veterans",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/placement",
+      "title": "Placement Options",
+      "finalUrl": "https://cncc.edu/admissions/placement",
+      "slug": "admissions-placement",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/tuition-and-costs",
+      "title": "Tuition and Costs",
+      "finalUrl": "https://cncc.edu/admissions/tuition-and-costs",
+      "slug": "admissions-tuition-and-costs",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/admissions/visit-cncc",
+      "title": "Visit Us",
+      "finalUrl": "https://cncc.edu/admissions/visit-cncc",
+      "slug": "admissions-visit-cncc",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/cncc_weather_conditions",
+      "title": "CNCC Weather Conditions",
+      "finalUrl": "https://cncc.edu/cncc_weather_conditions",
+      "slug": "cncc-weather-conditions",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/cncc-calendar",
+      "title": "CNCC Calendar",
+      "finalUrl": "https://cncc.edu/cncc-calendar",
+      "slug": "cncc-calendar",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "help": "Elements must only use permitted ARIA attributes",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 8,
+          "firstTargets": [
+            "omnicms-calendar,.fc-view-harness",
+            "omnicms-calendar,a[aria-label=\"Sunday\"]",
+            "omnicms-calendar,a[aria-label=\"Monday\"]"
+          ]
+        },
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "help": "ARIA attributes must conform to valid values",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 42,
+          "firstTargets": [
+            "omnicms-calendar,td[aria-labelledby=\"fc-dom-2\"]",
+            "omnicms-calendar,td[aria-labelledby=\"fc-dom-4\"]",
+            "omnicms-calendar,td[aria-labelledby=\"fc-dom-6\"]"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 5,
+          "firstTargets": [
+            "omnicms-calendar,#hero-title",
+            "omnicms-calendar,#hero-subtitle",
+            "omnicms-calendar,input[placeholder=\"Search for events\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/adult-basic-education/adult-basic-education-faq",
+      "title": "Adult Basic Ed FAQ",
+      "finalUrl": "https://cncc.edu/community/adult-basic-education/adult-basic-education-faq",
+      "slug": "community-adult-basic-education-adult-basic-education-faq",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/cncc-dental-clinic",
+      "title": "CNCC Dental Clinic",
+      "finalUrl": "https://cncc.edu/community/cncc-dental-clinic",
+      "slug": "community-cncc-dental-clinic",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/index",
+      "title": "Community",
+      "finalUrl": "https://cncc.edu/community/index",
+      "slug": "community-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/paleo/index",
+      "title": "Paleontology Summer Program",
+      "finalUrl": "https://cncc.edu/community/paleo/index",
+      "slug": "community-paleo-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/salon-and-spa/index",
+      "title": "Salon and Spa",
+      "finalUrl": "https://cncc.edu/community/salon-and-spa/index",
+      "slug": "community-salon-and-spa-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/study-abroad",
+      "title": "Study Abroad",
+      "finalUrl": "https://cncc.edu/community/study-abroad",
+      "slug": "community-study-abroad",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/summer-conference-housing",
+      "title": "Summer Conference Housing",
+      "finalUrl": "https://cncc.edu/community/summer-conference-housing",
+      "slug": "community-summer-conference-housing",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/waving-hands-archives",
+      "title": "Archives",
+      "finalUrl": "https://cncc.edu/community/waving-hands-archives",
+      "slug": "community-waving-hands-archives",
+      "violations": [
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag244",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "tr:nth-child(5) > td:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)"
+          ]
+        }
+      ],
+      "violationTotal": 1,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/cte/rad-tech/index",
+      "title": "Radiologic Technology",
+      "finalUrl": "https://cncc.edu/degrees/cte/rad-tech/index",
+      "slug": "degrees-cte-rad-tech-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/degrees/index",
+      "title": "Degrees & Programs",
+      "finalUrl": "https://cncc.edu/degrees/index",
+      "slug": "degrees-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/arts_humanities",
+      "title": "Arts & Humanities",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/arts_humanities",
+      "slug": "degrees-meta-majors-arts-humanities",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/aviation_transportation",
+      "title": "Aviation & Transportation",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/aviation_transportation",
+      "slug": "degrees-meta-majors-aviation-transportation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/business_industry",
+      "title": "Business & Industry",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/business_industry",
+      "slug": "degrees-meta-majors-business-industry",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/health_sciences",
+      "title": "Health Sciences",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/health_sciences",
+      "slug": "degrees-meta-majors-health-sciences",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/prlea",
+      "title": "Park Ranger Law Enforcement Academy",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/prlea",
+      "slug": "degrees-meta-majors-prlea",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/science_mathematics",
+      "title": "Science & Mathematics",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/science_mathematics",
+      "slug": "degrees-meta-majors-science-mathematics",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/social_behavioral_science",
+      "title": "Social & Behavioral Science",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/social_behavioral_science",
+      "slug": "degrees-meta-majors-social-behavioral-science",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/online-degrees",
+      "title": "Online Degrees",
+      "finalUrl": "https://cncc.edu/degrees/online-degrees",
+      "slug": "degrees-online-degrees",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/faculty-staff/directory/index",
+      "title": "Directory",
+      "finalUrl": "https://cncc.edu/faculty-staff/directory/index",
+      "slug": "faculty-staff-directory-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "select"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/faculty-staff/index",
+      "title": "Faculty / Staff",
+      "finalUrl": "https://cncc.edu/faculty-staff/index",
+      "slug": "faculty-staff-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/faculty-staff/it-help-desk",
+      "title": "IT Help Desk",
+      "finalUrl": "https://cncc.edu/faculty-staff/it-help-desk",
+      "slug": "faculty-staff-it-help-desk",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/index",
+      "title": "Home",
+      "finalUrl": "https://cncc.edu/index",
+      "slug": "index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            ".carousel-item.active > div > .video-caption > h2",
+            ".lead-paragraph:nth-child(2) > span"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/news/cncc-corner-july2026",
+      "title": "CNCC Corner - July 2026",
+      "finalUrl": "https://cncc.edu/news/cncc-corner-july2026",
+      "slug": "news-cncc-corner-july2026",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/index",
+      "title": "CNCC News Page",
+      "finalUrl": "https://cncc.edu/news/index",
+      "slug": "news-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/news-listing",
+      "title": "CNCC News Listing",
+      "finalUrl": "https://cncc.edu/news/news-listing",
+      "slug": "news-news-listing",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/nifa_flight_team_national_recognition",
+      "title": "CNCC NIFA Flight Team Achieves National Recognition",
+      "finalUrl": "https://cncc.edu/news/nifa_flight_team_national_recognition",
+      "slug": "news-nifa-flight-team-national-recognition",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/nifa-nationals",
+      "title": "CNCC Flight Team Qualifies for NIFA Nationals",
+      "finalUrl": "https://cncc.edu/news/nifa-nationals",
+      "slug": "news-nifa-nationals",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/prlea_enhances_training",
+      "title": "Park Ranger Law Enforcement Academy Enhances Training",
+      "finalUrl": "https://cncc.edu/news/prlea_enhances_training",
+      "slug": "news-prlea-enhances-training",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/accommodations-accessibility-services",
+      "title": "Accommodations & Accessibility Services",
+      "finalUrl": "https://cncc.edu/student-life/accommodations-accessibility-services",
+      "slug": "student-life-accommodations-accessibility-services",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/bevavioral_health/index",
+      "title": "Behavioral Health",
+      "finalUrl": "https://cncc.edu/student-life/bevavioral_health/index",
+      "slug": "student-life-bevavioral-health-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/consumer-information",
+      "title": "Consumer Information",
+      "finalUrl": "https://cncc.edu/student-life/consumer-information",
+      "slug": "student-life-consumer-information",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/housing/index",
+      "title": "Living on Campus",
+      "finalUrl": "https://cncc.edu/student-life/housing/index",
+      "slug": "student-life-housing-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/housing/living-in-northwest-colorado",
+      "title": "Living in Northwest Colorado",
+      "finalUrl": "https://cncc.edu/student-life/housing/living-in-northwest-colorado",
+      "slug": "student-life-housing-living-in-northwest-colorado",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/index",
+      "title": "Student Life",
+      "finalUrl": "https://cncc.edu/student-life/index",
+      "slug": "student-life-index",
+      "violations": [
+        {
+          "id": "aria-allowed-attr",
+          "impact": "critical",
+          "help": "Elements must only use supported ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-allowed-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe[width=\"640\"] .ytmVideoInfoVideoTitle"
+          ]
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "help": "Elements must only use permitted ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe[width=\"640\"] #movie_player"
+          ]
+        },
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "help": "Buttons must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe[width=\"640\"] .ytmVideoInfoChannelAvatar"
+          ]
+        },
+        {
+          "id": "frame-focusable-content",
+          "impact": "serious",
+          "help": "Frames with focusable content must not have tabindex=-1",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/frame-focusable-content?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag211"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe[width=\"640\"] html"
+          ]
+        }
+      ],
+      "violationTotal": 4,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/outdoor-recreation-program",
+      "title": "Outdoor Recreation Program",
+      "finalUrl": "https://cncc.edu/student-life/outdoor-recreation-program",
+      "slug": "student-life-outdoor-recreation-program",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 7,
+          "firstTargets": [
+            ".col-12 > h1",
+            "omnicms-calendar,#hero-title",
+            "omnicms-calendar,#hero-subtitle"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/safety/campus-safety",
+      "title": "Campus Safety",
+      "finalUrl": "https://cncc.edu/student-life/safety/campus-safety",
+      "slug": "student-life-safety-campus-safety",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/safety/toknow",
+      "title": "Students Right to Know",
+      "finalUrl": "https://cncc.edu/student-life/safety/toknow",
+      "slug": "student-life-safety-toknow",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/student-leadership/clubs-organizations",
+      "title": "Clubs & Organizations",
+      "finalUrl": "https://cncc.edu/student-life/student-leadership/clubs-organizations",
+      "slug": "student-life-student-leadership-clubs-organizations",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/student-leadership/student-leadership",
+      "title": "Student Leadership",
+      "finalUrl": "https://cncc.edu/student-life/student-leadership/student-leadership",
+      "slug": "student-life-student-leadership-student-leadership",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/students/index",
+      "title": "Students",
+      "finalUrl": "https://cncc.edu/students/index",
+      "slug": "students-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "help": "Elements must only use permitted ARIA attributes",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 8,
+          "firstTargets": [
+            "omnicms-calendar,.fc-view-harness",
+            "omnicms-calendar,a[aria-label=\"Sunday\"]",
+            "omnicms-calendar,a[aria-label=\"Monday\"]"
+          ]
+        },
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "help": "ARIA attributes must conform to valid values",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 42,
+          "firstTargets": [
+            "omnicms-calendar,td[aria-labelledby=\"fc-dom-2\"]",
+            "omnicms-calendar,td[aria-labelledby=\"fc-dom-4\"]",
+            "omnicms-calendar,td[aria-labelledby=\"fc-dom-6\"]"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 8,
+          "firstTargets": [
+            ".col-12 > h1",
+            "omnicms-calendar,#hero-title",
+            "omnicms-calendar,#hero-subtitle"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagesHtml": {
+    "https://cncc.edu/": "pages/home.html",
+    "https://cncc.edu/about/accessibility-statement": "pages/about-accessibility-statement.html",
+    "https://cncc.edu/about/accreditation": "pages/about-accreditation.html",
+    "https://cncc.edu/about/cncc_graduation_ceremonies": "pages/about-cncc-graduation-ceremonies.html",
+    "https://cncc.edu/about/foundation/index": "pages/about-foundation-index.html",
+    "https://cncc.edu/about/human-resources/career-opportunities": "pages/about-human-resources-career-opportunities.html",
+    "https://cncc.edu/about/human-resources/index": "pages/about-human-resources-index.html",
+    "https://cncc.edu/about/index": "pages/about-index.html",
+    "https://cncc.edu/about/institutional-effectiveness/index": "pages/about-institutional-effectiveness-index.html",
+    "https://cncc.edu/about/locations": "pages/about-locations.html",
+    "https://cncc.edu/about/mission-vision-strategic-plan": "pages/about-mission-vision-strategic-plan.html",
+    "https://cncc.edu/about/president": "pages/about-president.html",
+    "https://cncc.edu/academics/academic-advising": "pages/academics-academic-advising.html",
+    "https://cncc.edu/academics/academic-assessment": "pages/academics-academic-assessment.html",
+    "https://cncc.edu/academics/academic-calendars": "pages/academics-academic-calendars.html",
+    "https://cncc.edu/academics/alternative-credit-project": "pages/academics-alternative-credit-project.html",
+    "https://cncc.edu/academics/bookstore": "pages/academics-bookstore.html",
+    "https://cncc.edu/academics/concurrent-enrollment/index": "pages/academics-concurrent-enrollment-index.html",
+    "https://cncc.edu/academics/course-schedules": "pages/academics-course-schedules.html",
+    "https://cncc.edu/academics/gateway": "pages/academics-gateway.html",
+    "https://cncc.edu/academics/index": "pages/academics-index.html",
+    "https://cncc.edu/academics/library": "pages/academics-library.html",
+    "https://cncc.edu/academics/non-discrimination-title-ix": "pages/academics-non-discrimination-title-ix.html",
+    "https://cncc.edu/academics/report-an-incident-or-concern": "pages/academics-report-an-incident-or-concern.html",
+    "https://cncc.edu/academics/transcript-request": "pages/academics-transcript-request.html",
+    "https://cncc.edu/admissions/admissions-checklist": "pages/admissions-admissions-checklist.html",
+    "https://cncc.edu/admissions/admissions-more": "pages/admissions-admissions-more.html",
+    "https://cncc.edu/admissions/apply": "pages/admissions-apply.html",
+    "https://cncc.edu/admissions/apply-today": "pages/admissions-apply-today.html",
+    "https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program": "pages/admissions-bridge-to-bachelor-s-degree-program.html",
+    "https://cncc.edu/admissions/financial-aid/index": "pages/admissions-financial-aid-index.html",
+    "https://cncc.edu/admissions/financial-aid/npcalc_23-24.html": "pages/admissions-financial-aid-npcalc-23-24-html.html",
+    "https://cncc.edu/admissions/financial-aid/scholarship-central": "pages/admissions-financial-aid-scholarship-central.html",
+    "https://cncc.edu/admissions/international-admissions": "pages/admissions-international-admissions.html",
+    "https://cncc.edu/admissions/military-and-veterans": "pages/admissions-military-and-veterans.html",
+    "https://cncc.edu/admissions/placement": "pages/admissions-placement.html",
+    "https://cncc.edu/admissions/tuition-and-costs": "pages/admissions-tuition-and-costs.html",
+    "https://cncc.edu/admissions/visit-cncc": "pages/admissions-visit-cncc.html",
+    "https://cncc.edu/cncc_weather_conditions": "pages/cncc-weather-conditions.html",
+    "https://cncc.edu/cncc-calendar": "pages/cncc-calendar.html",
+    "https://cncc.edu/community/adult-basic-education/adult-basic-education-faq": "pages/community-adult-basic-education-adult-basic-education-faq.html",
+    "https://cncc.edu/community/cncc-dental-clinic": "pages/community-cncc-dental-clinic.html",
+    "https://cncc.edu/community/index": "pages/community-index.html",
+    "https://cncc.edu/community/paleo/index": "pages/community-paleo-index.html",
+    "https://cncc.edu/community/salon-and-spa/index": "pages/community-salon-and-spa-index.html",
+    "https://cncc.edu/community/study-abroad": "pages/community-study-abroad.html",
+    "https://cncc.edu/community/summer-conference-housing": "pages/community-summer-conference-housing.html",
+    "https://cncc.edu/community/waving-hands-archives": "pages/community-waving-hands-archives.html",
+    "https://cncc.edu/degrees/cte/rad-tech/index": "pages/degrees-cte-rad-tech-index.html",
+    "https://cncc.edu/degrees/index": "pages/degrees-index.html",
+    "https://cncc.edu/degrees/meta-majors/arts_humanities": "pages/degrees-meta-majors-arts-humanities.html",
+    "https://cncc.edu/degrees/meta-majors/aviation_transportation": "pages/degrees-meta-majors-aviation-transportation.html",
+    "https://cncc.edu/degrees/meta-majors/business_industry": "pages/degrees-meta-majors-business-industry.html",
+    "https://cncc.edu/degrees/meta-majors/health_sciences": "pages/degrees-meta-majors-health-sciences.html",
+    "https://cncc.edu/degrees/meta-majors/prlea": "pages/degrees-meta-majors-prlea.html",
+    "https://cncc.edu/degrees/meta-majors/science_mathematics": "pages/degrees-meta-majors-science-mathematics.html",
+    "https://cncc.edu/degrees/meta-majors/social_behavioral_science": "pages/degrees-meta-majors-social-behavioral-science.html",
+    "https://cncc.edu/degrees/online-degrees": "pages/degrees-online-degrees.html",
+    "https://cncc.edu/faculty-staff/directory/index": "pages/faculty-staff-directory-index.html",
+    "https://cncc.edu/faculty-staff/index": "pages/faculty-staff-index.html",
+    "https://cncc.edu/faculty-staff/it-help-desk": "pages/faculty-staff-it-help-desk.html",
+    "https://cncc.edu/index": "pages/index.html",
+    "https://cncc.edu/news/cncc-corner-july2026": "pages/news-cncc-corner-july2026.html",
+    "https://cncc.edu/news/index": "pages/news-index.html",
+    "https://cncc.edu/news/news-listing": "pages/news-news-listing.html",
+    "https://cncc.edu/news/nifa_flight_team_national_recognition": "pages/news-nifa-flight-team-national-recognition.html",
+    "https://cncc.edu/news/nifa-nationals": "pages/news-nifa-nationals.html",
+    "https://cncc.edu/news/prlea_enhances_training": "pages/news-prlea-enhances-training.html",
+    "https://cncc.edu/student-life/accommodations-accessibility-services": "pages/student-life-accommodations-accessibility-services.html",
+    "https://cncc.edu/student-life/bevavioral_health/index": "pages/student-life-bevavioral-health-index.html",
+    "https://cncc.edu/student-life/consumer-information": "pages/student-life-consumer-information.html",
+    "https://cncc.edu/student-life/housing/index": "pages/student-life-housing-index.html",
+    "https://cncc.edu/student-life/housing/living-in-northwest-colorado": "pages/student-life-housing-living-in-northwest-colorado.html",
+    "https://cncc.edu/student-life/index": "pages/student-life-index.html",
+    "https://cncc.edu/student-life/outdoor-recreation-program": "pages/student-life-outdoor-recreation-program.html",
+    "https://cncc.edu/student-life/safety/campus-safety": "pages/student-life-safety-campus-safety.html",
+    "https://cncc.edu/student-life/safety/toknow": "pages/student-life-safety-toknow.html",
+    "https://cncc.edu/student-life/student-leadership/clubs-organizations": "pages/student-life-student-leadership-clubs-organizations.html",
+    "https://cncc.edu/student-life/student-leadership/student-leadership": "pages/student-life-student-leadership-student-leadership.html",
+    "https://cncc.edu/students/index": "pages/students-index.html"
+  }
+}
