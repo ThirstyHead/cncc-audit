@@ -1,0 +1,1035 @@
+{
+  "generated": "2026-10-19T11:44:30.829Z",
+  "tags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21a",
+    "wcag21aa"
+  ],
+  "pages": [
+    {
+      "url": "https://cncc.edu/",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/",
+      "slug": "home",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/accessibility-statement",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fabout%2Faccessibility-statement&y=ipc:4.242.195.247:1792410004.972",
+      "slug": "about-accessibility-statement",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/accreditation",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/about/accreditation",
+      "slug": "about-accreditation",
+      "error": "Error: frame.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/cncc_graduation_ceremonies",
+      "title": "CNCC Graduation Ceremonies",
+      "finalUrl": "https://cncc.edu/about/cncc_graduation_ceremonies",
+      "slug": "about-cncc-graduation-ceremonies",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/foundation/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fabout%2Ffoundation%2Findex&y=ipc:4.242.195.247:1792410014.993",
+      "slug": "about-foundation-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/human-resources/career-opportunities",
+      "title": "Career Opportunities",
+      "finalUrl": "https://cncc.edu/about/human-resources/career-opportunities",
+      "slug": "about-human-resources-career-opportunities",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/human-resources/index",
+      "title": "Human Resources",
+      "finalUrl": "https://cncc.edu/about/human-resources/index",
+      "slug": "about-human-resources-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/index",
+      "title": "About",
+      "finalUrl": "https://cncc.edu/about/index",
+      "slug": "about-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/institutional-effectiveness/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fabout%2Finstitutional-effectiveness%2Findex&y=ipc:4.242.195.247:1792410029.562",
+      "slug": "about-institutional-effectiveness-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/locations",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fabout%2Flocations&y=ipc:4.242.195.247:1792410032.920",
+      "slug": "about-locations",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/about/mission-vision-strategic-plan",
+      "title": "CNCC Mission, Vision & Strategic Plan",
+      "finalUrl": "https://cncc.edu/about/mission-vision-strategic-plan",
+      "slug": "about-mission-vision-strategic-plan",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/about/president",
+      "title": "Office of the President",
+      "finalUrl": "https://cncc.edu/about/president",
+      "slug": "about-president",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        },
+        {
+          "id": "th-has-data-cells",
+          "impact": "serious",
+          "help": "Table headers in a data table must refer to data cells",
+          "wcag": [
+            "wcag2a",
+            "wcag131"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "table"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/academics/academic-advising",
+      "title": "Academic Advising",
+      "finalUrl": "https://cncc.edu/academics/academic-advising",
+      "slug": "academics-academic-advising",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/academic-assessment",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Facademic-assessment&y=ipc:4.242.195.247:1792410045.695",
+      "slug": "academics-academic-assessment",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/academic-calendars",
+      "title": "Academic Calendars",
+      "finalUrl": "https://cncc.edu/academics/academic-calendars",
+      "slug": "academics-academic-calendars",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/alternative-credit-project",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Falternative-credit-project&y=ipc:4.242.195.247:1792410052.515",
+      "slug": "academics-alternative-credit-project",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/bookstore",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Fbookstore&y=ipc:4.242.195.247:1792410055.958",
+      "slug": "academics-bookstore",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/concurrent-enrollment/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Fconcurrent-enrollment%2Findex&y=ipc:4.242.195.247:1792410059.293",
+      "slug": "academics-concurrent-enrollment-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/course-schedules",
+      "title": "Course Schedules",
+      "finalUrl": "https://cncc.edu/academics/course-schedules",
+      "slug": "academics-course-schedules",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/gateway",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Fgateway&y=ipc:4.242.195.247:1792410066.002",
+      "slug": "academics-gateway",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Findex&y=ipc:4.242.195.247:1792410069.558",
+      "slug": "academics-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/library",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Flibrary&y=ipc:4.242.195.247:1792410072.967",
+      "slug": "academics-library",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/non-discrimination-title-ix",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Fnon-discrimination-title-ix&y=ipc:4.242.195.247:1792410076.404",
+      "slug": "academics-non-discrimination-title-ix",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/report-an-incident-or-concern",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Freport-an-incident-or-concern&y=ipc:4.242.195.247:1792410079.785",
+      "slug": "academics-report-an-incident-or-concern",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/academics/transcript-request",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Facademics%2Ftranscript-request&y=ipc:4.242.195.247:1792410083.149",
+      "slug": "academics-transcript-request",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/admissions-checklist",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Fadmissions-checklist&y=ipc:4.242.195.247:1792410086.271",
+      "slug": "admissions-admissions-checklist",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/admissions-more",
+      "title": "Admissions & More",
+      "finalUrl": "https://cncc.edu/admissions/admissions-more",
+      "slug": "admissions-admissions-more",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/apply",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Fapply&y=ipc:4.242.195.247:1792410092.797",
+      "slug": "admissions-apply",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/apply-today",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/admissions/apply-today",
+      "slug": "admissions-apply-today",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program",
+      "slug": "admissions-bridge-to-bachelor-s-degree-program",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/financial-aid/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Ffinancial-aid%2Findex&y=ipc:4.242.195.247:1792410101.635",
+      "slug": "admissions-financial-aid-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/financial-aid/npcalc_23-24.html",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Ffinancial-aid%2Fnpcalc_23-24.html&y=ipc:4.242.195.247:1792410105.095",
+      "slug": "admissions-financial-aid-npcalc-23-24-html",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/financial-aid/scholarship-central",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Ffinancial-aid%2Fscholarship-central&y=ipc:4.242.195.247:1792410108.475",
+      "slug": "admissions-financial-aid-scholarship-central",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/international-admissions",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Finternational-admissions&y=ipc:4.242.195.247:1792410111.838",
+      "slug": "admissions-international-admissions",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/military-and-veterans",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Fmilitary-and-veterans&y=ipc:4.242.195.247:1792410115.175",
+      "slug": "admissions-military-and-veterans",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/placement",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Fplacement&y=ipc:4.242.195.247:1792410118.573",
+      "slug": "admissions-placement",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/tuition-and-costs",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fadmissions%2Ftuition-and-costs&y=ipc:4.242.195.247:1792410121.866",
+      "slug": "admissions-tuition-and-costs",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/admissions/visit-cncc",
+      "title": "Visit Us",
+      "finalUrl": "https://cncc.edu/admissions/visit-cncc",
+      "slug": "admissions-visit-cncc",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/cncc_weather_conditions",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcncc_weather_conditions&y=ipc:4.242.195.247:1792410128.837",
+      "slug": "cncc-weather-conditions",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/cncc-calendar",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcncc-calendar&y=ipc:4.242.195.247:1792410132.045",
+      "slug": "cncc-calendar",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/adult-basic-education/adult-basic-education-faq",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcommunity%2Fadult-basic-education%2Fadult-basic-education-faq&y=ipc:4.242.195.247:1792410135.372",
+      "slug": "community-adult-basic-education-adult-basic-education-faq",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/cncc-dental-clinic",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcommunity%2Fcncc-dental-clinic&y=ipc:4.242.195.247:1792410138.695",
+      "slug": "community-cncc-dental-clinic",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/index",
+      "title": "Community",
+      "finalUrl": "https://cncc.edu/community/index",
+      "slug": "community-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/community/paleo/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcommunity%2Fpaleo%2Findex&y=ipc:4.242.195.247:1792410145.268",
+      "slug": "community-paleo-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/salon-and-spa/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcommunity%2Fsalon-and-spa%2Findex&y=ipc:4.242.195.247:1792410148.683",
+      "slug": "community-salon-and-spa-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/study-abroad",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/community/study-abroad",
+      "slug": "community-study-abroad",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/summer-conference-housing",
+      "title": "Summer Conference Housing",
+      "finalUrl": "https://cncc.edu/community/summer-conference-housing",
+      "slug": "community-summer-conference-housing",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/community/waving-hands-archives",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fcommunity%2Fwaving-hands-archives&y=ipc:4.242.195.247:1792410157.546",
+      "slug": "community-waving-hands-archives",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/cte/rad-tech/index",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/degrees/cte/rad-tech/index",
+      "slug": "degrees-cte-rad-tech-index",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fdegrees%2Findex&y=ipc:4.242.195.247:1792410163.432",
+      "slug": "degrees-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/arts_humanities",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fdegrees%2Fmeta-majors%2Farts_humanities&y=ipc:4.242.195.247:1792410166.803",
+      "slug": "degrees-meta-majors-arts-humanities",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/aviation_transportation",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fdegrees%2Fmeta-majors%2Faviation_transportation&y=ipc:4.242.195.247:1792410170.168",
+      "slug": "degrees-meta-majors-aviation-transportation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/business_industry",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fdegrees%2Fmeta-majors%2Fbusiness_industry&y=ipc:4.242.195.247:1792410173.532",
+      "slug": "degrees-meta-majors-business-industry",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/health_sciences",
+      "title": "Health Sciences",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/health_sciences",
+      "slug": "degrees-meta-majors-health-sciences",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/prlea",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/prlea",
+      "slug": "degrees-meta-majors-prlea",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/science_mathematics",
+      "title": "Science & Mathematics",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/science_mathematics",
+      "slug": "degrees-meta-majors-science-mathematics",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/meta-majors/social_behavioral_science",
+      "title": "Social & Behavioral Science",
+      "finalUrl": "https://cncc.edu/degrees/meta-majors/social_behavioral_science",
+      "slug": "degrees-meta-majors-social-behavioral-science",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/degrees/online-degrees",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fdegrees%2Fonline-degrees&y=ipc:4.242.195.247:1792410191.391",
+      "slug": "degrees-online-degrees",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/faculty-staff/directory/index",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/faculty-staff/directory/index",
+      "slug": "faculty-staff-directory-index",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation\n Please check out https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/error-handling.md",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/faculty-staff/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Ffaculty-staff%2Findex&y=ipc:4.242.195.247:1792410198.316",
+      "slug": "faculty-staff-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/faculty-staff/it-help-desk",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/faculty-staff/it-help-desk",
+      "slug": "faculty-staff-it-help-desk",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/index",
+      "title": "Home",
+      "finalUrl": "https://cncc.edu/index",
+      "slug": "index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            ".video-caption > h2",
+            ".video-caption > p > span:nth-child(1)"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/news/cncc-corner-july2026",
+      "title": "CNCC Corner - July 2026",
+      "finalUrl": "https://cncc.edu/news/cncc-corner-july2026",
+      "slug": "news-cncc-corner-july2026",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/index",
+      "title": "CNCC News Page",
+      "finalUrl": "https://cncc.edu/news/index",
+      "slug": "news-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/news-listing",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fnews%2Fnews-listing&y=ipc:4.242.195.247:1792410213.441",
+      "slug": "news-news-listing",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/nifa_flight_team_national_recognition",
+      "title": "CNCC NIFA Flight Team Achieves National Recognition",
+      "finalUrl": "https://cncc.edu/news/nifa_flight_team_national_recognition",
+      "slug": "news-nifa-flight-team-national-recognition",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/nifa-nationals",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fnews%2Fnifa-nationals&y=ipc:4.242.195.247:1792410221.429",
+      "slug": "news-nifa-nationals",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/news/prlea_enhances_training",
+      "title": "Park Ranger Law Enforcement Academy Enhances Training",
+      "finalUrl": "https://cncc.edu/news/prlea_enhances_training",
+      "slug": "news-prlea-enhances-training",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/accommodations-accessibility-services",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fstudent-life%2Faccommodations-accessibility-services&y=ipc:4.242.195.247:1792410227.791",
+      "slug": "student-life-accommodations-accessibility-services",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/bevavioral_health/index",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fstudent-life%2Fbevavioral_health%2Findex&y=ipc:4.242.195.247:1792410231.256",
+      "slug": "student-life-bevavioral-health-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/consumer-information",
+      "title": "Consumer Information",
+      "finalUrl": "https://cncc.edu/student-life/consumer-information",
+      "slug": "student-life-consumer-information",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/housing/index",
+      "title": "Living on Campus",
+      "finalUrl": "https://cncc.edu/student-life/housing/index",
+      "slug": "student-life-housing-index",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/housing/living-in-northwest-colorado",
+      "title": "Living in Northwest Colorado",
+      "finalUrl": "https://cncc.edu/student-life/housing/living-in-northwest-colorado",
+      "slug": "student-life-housing-living-in-northwest-colorado",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/index",
+      "title": "Student Life",
+      "finalUrl": "https://cncc.edu/student-life/index",
+      "slug": "student-life-index",
+      "violations": [
+        {
+          "id": "aria-allowed-attr",
+          "impact": "critical",
+          "help": "Elements must only use supported ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-allowed-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe .ytmVideoInfoVideoTitle"
+          ]
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "help": "Elements must only use permitted ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe #movie_player"
+          ]
+        },
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "help": "Buttons must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe .ytmVideoInfoChannelAvatar"
+          ]
+        },
+        {
+          "id": "frame-focusable-content",
+          "impact": "serious",
+          "help": "Frames with focusable content must not have tabindex=-1",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/frame-focusable-content?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag211"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe html"
+          ]
+        }
+      ],
+      "violationTotal": 4,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/outdoor-recreation-program",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fstudent-life%2Foutdoor-recreation-program&y=ipc:4.242.195.247:1792410249.662",
+      "slug": "student-life-outdoor-recreation-program",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/safety/campus-safety",
+      "title": "Robot Challenge Screen",
+      "finalUrl": "https://cncc.edu/.well-known/sgcaptcha/?r=%2Fstudent-life%2Fsafety%2Fcampus-safety&y=ipc:4.242.195.247:1792410253.114",
+      "slug": "student-life-safety-campus-safety",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/safety/toknow",
+      "title": "Students Right to Know",
+      "finalUrl": "https://cncc.edu/student-life/safety/toknow",
+      "slug": "student-life-safety-toknow",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/student-life/student-leadership/clubs-organizations",
+      "title": "Clubs & Organizations",
+      "finalUrl": "https://cncc.edu/student-life/student-leadership/clubs-organizations",
+      "slug": "student-life-student-leadership-clubs-organizations",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".col-12 > h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://cncc.edu/student-life/student-leadership/student-leadership",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/student-life/student-leadership/student-leadership",
+      "slug": "student-life-student-leadership-student-leadership",
+      "error": "Error: page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    },
+    {
+      "url": "https://cncc.edu/students/index",
+      "status": null,
+      "title": null,
+      "finalUrl": "https://cncc.edu/students/index",
+      "slug": "students-index",
+      "error": "Error: frame.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": []
+    }
+  ],
+  "pagesHtml": {
+    "https://cncc.edu/about/accessibility-statement": "pages/about-accessibility-statement.html",
+    "https://cncc.edu/about/cncc_graduation_ceremonies": "pages/about-cncc-graduation-ceremonies.html",
+    "https://cncc.edu/about/foundation/index": "pages/about-foundation-index.html",
+    "https://cncc.edu/about/human-resources/career-opportunities": "pages/about-human-resources-career-opportunities.html",
+    "https://cncc.edu/about/human-resources/index": "pages/about-human-resources-index.html",
+    "https://cncc.edu/about/index": "pages/about-index.html",
+    "https://cncc.edu/about/institutional-effectiveness/index": "pages/about-institutional-effectiveness-index.html",
+    "https://cncc.edu/about/locations": "pages/about-locations.html",
+    "https://cncc.edu/about/mission-vision-strategic-plan": "pages/about-mission-vision-strategic-plan.html",
+    "https://cncc.edu/about/president": "pages/about-president.html",
+    "https://cncc.edu/academics/academic-advising": "pages/academics-academic-advising.html",
+    "https://cncc.edu/academics/academic-assessment": "pages/academics-academic-assessment.html",
+    "https://cncc.edu/academics/academic-calendars": "pages/academics-academic-calendars.html",
+    "https://cncc.edu/academics/alternative-credit-project": "pages/academics-alternative-credit-project.html",
+    "https://cncc.edu/academics/bookstore": "pages/academics-bookstore.html",
+    "https://cncc.edu/academics/concurrent-enrollment/index": "pages/academics-concurrent-enrollment-index.html",
+    "https://cncc.edu/academics/course-schedules": "pages/academics-course-schedules.html",
+    "https://cncc.edu/academics/gateway": "pages/academics-gateway.html",
+    "https://cncc.edu/academics/index": "pages/academics-index.html",
+    "https://cncc.edu/academics/library": "pages/academics-library.html",
+    "https://cncc.edu/academics/non-discrimination-title-ix": "pages/academics-non-discrimination-title-ix.html",
+    "https://cncc.edu/academics/report-an-incident-or-concern": "pages/academics-report-an-incident-or-concern.html",
+    "https://cncc.edu/academics/transcript-request": "pages/academics-transcript-request.html",
+    "https://cncc.edu/admissions/admissions-checklist": "pages/admissions-admissions-checklist.html",
+    "https://cncc.edu/admissions/admissions-more": "pages/admissions-admissions-more.html",
+    "https://cncc.edu/admissions/apply": "pages/admissions-apply.html",
+    "https://cncc.edu/admissions/financial-aid/index": "pages/admissions-financial-aid-index.html",
+    "https://cncc.edu/admissions/financial-aid/npcalc_23-24.html": "pages/admissions-financial-aid-npcalc-23-24-html.html",
+    "https://cncc.edu/admissions/financial-aid/scholarship-central": "pages/admissions-financial-aid-scholarship-central.html",
+    "https://cncc.edu/admissions/international-admissions": "pages/admissions-international-admissions.html",
+    "https://cncc.edu/admissions/military-and-veterans": "pages/admissions-military-and-veterans.html",
+    "https://cncc.edu/admissions/placement": "pages/admissions-placement.html",
+    "https://cncc.edu/admissions/tuition-and-costs": "pages/admissions-tuition-and-costs.html",
+    "https://cncc.edu/admissions/visit-cncc": "pages/admissions-visit-cncc.html",
+    "https://cncc.edu/cncc_weather_conditions": "pages/cncc-weather-conditions.html",
+    "https://cncc.edu/cncc-calendar": "pages/cncc-calendar.html",
+    "https://cncc.edu/community/adult-basic-education/adult-basic-education-faq": "pages/community-adult-basic-education-adult-basic-education-faq.html",
+    "https://cncc.edu/community/cncc-dental-clinic": "pages/community-cncc-dental-clinic.html",
+    "https://cncc.edu/community/index": "pages/community-index.html",
+    "https://cncc.edu/community/paleo/index": "pages/community-paleo-index.html",
+    "https://cncc.edu/community/salon-and-spa/index": "pages/community-salon-and-spa-index.html",
+    "https://cncc.edu/community/summer-conference-housing": "pages/community-summer-conference-housing.html",
+    "https://cncc.edu/community/waving-hands-archives": "pages/community-waving-hands-archives.html",
+    "https://cncc.edu/degrees/index": "pages/degrees-index.html",
+    "https://cncc.edu/degrees/meta-majors/arts_humanities": "pages/degrees-meta-majors-arts-humanities.html",
+    "https://cncc.edu/degrees/meta-majors/aviation_transportation": "pages/degrees-meta-majors-aviation-transportation.html",
+    "https://cncc.edu/degrees/meta-majors/business_industry": "pages/degrees-meta-majors-business-industry.html",
+    "https://cncc.edu/degrees/meta-majors/health_sciences": "pages/degrees-meta-majors-health-sciences.html",
+    "https://cncc.edu/degrees/meta-majors/science_mathematics": "pages/degrees-meta-majors-science-mathematics.html",
+    "https://cncc.edu/degrees/meta-majors/social_behavioral_science": "pages/degrees-meta-majors-social-behavioral-science.html",
+    "https://cncc.edu/degrees/online-degrees": "pages/degrees-online-degrees.html",
+    "https://cncc.edu/faculty-staff/index": "pages/faculty-staff-index.html",
+    "https://cncc.edu/index": "pages/index.html",
+    "https://cncc.edu/news/cncc-corner-july2026": "pages/news-cncc-corner-july2026.html",
+    "https://cncc.edu/news/index": "pages/news-index.html",
+    "https://cncc.edu/news/news-listing": "pages/news-news-listing.html",
+    "https://cncc.edu/news/nifa_flight_team_national_recognition": "pages/news-nifa-flight-team-national-recognition.html",
+    "https://cncc.edu/news/nifa-nationals": "pages/news-nifa-nationals.html",
+    "https://cncc.edu/news/prlea_enhances_training": "pages/news-prlea-enhances-training.html",
+    "https://cncc.edu/student-life/accommodations-accessibility-services": "pages/student-life-accommodations-accessibility-services.html",
+    "https://cncc.edu/student-life/bevavioral_health/index": "pages/student-life-bevavioral-health-index.html",
+    "https://cncc.edu/student-life/consumer-information": "pages/student-life-consumer-information.html",
+    "https://cncc.edu/student-life/housing/index": "pages/student-life-housing-index.html",
+    "https://cncc.edu/student-life/housing/living-in-northwest-colorado": "pages/student-life-housing-living-in-northwest-colorado.html",
+    "https://cncc.edu/student-life/index": "pages/student-life-index.html",
+    "https://cncc.edu/student-life/outdoor-recreation-program": "pages/student-life-outdoor-recreation-program.html",
+    "https://cncc.edu/student-life/safety/campus-safety": "pages/student-life-safety-campus-safety.html",
+    "https://cncc.edu/student-life/safety/toknow": "pages/student-life-safety-toknow.html",
+    "https://cncc.edu/student-life/student-leadership/clubs-organizations": "pages/student-life-student-leadership-clubs-organizations.html"
+  }
+}
