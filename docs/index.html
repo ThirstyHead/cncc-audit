@@ -110,17 +110,17 @@
 </header>
 <div class="wrap">
 <div class="meta">
-  <span>Last audited: <strong>October 19, 2026</strong> (UTC)</span>
-  <span>Published runs: 10</span>
+  <span>Last audited: <strong>October 26, 2026</strong> (UTC)</span>
+  <span>Published runs: 11</span>
   <span>Tooling: <a href="https://github.com/ThirstyHead/audit-cncc.edu">axe-core + Playwright</a>, run weekly via GitHub Actions</span>
-  <span><span class="delta up">▲ 3 vs last run</span></span>
+  <span><span class="delta flat">no change vs last run</span></span>
 </div>
 
 <h2>Latest results</h2>
 <div class="cards">
   <div class="card"><span class="num">4</span><span class="lbl">Node-level violations</span></div>
-  <div class="card"><span class="num">69</span><span class="lbl">Pages audited</span></div>
-  <div class="card"><span class="num">12</span><span class="lbl">Need manual review</span></div>
+  <div class="card"><span class="num">76</span><span class="lbl">Pages audited</span></div>
+  <div class="card"><span class="num">9</span><span class="lbl">Need manual review</span></div>
   <div class="card"><span class="num ">0</span><span class="lbl">Not audited (HTTP error)</span></div>
 </div>
 <div class="severities">
@@ -144,39 +144,42 @@
 <h2>Trend</h2>
 <div>
     <svg viewBox="0 0 680 150" class="spark" role="img" aria-label="Trend of total node-level violations across audit runs">
-      <polyline points="40.0,18.0 106.7,18.0 173.3,110.7 240.0,18.0 306.7,18.0 373.3,18.0 440.0,18.0 506.7,18.0 573.3,110.7 640.0,82.9" fill="none" stroke="#004165" stroke-width="2.5" stroke-linejoin="round"/>
+      <polyline points="40.0,18.0 100.0,18.0 160.0,110.7 220.0,18.0 280.0,18.0 340.0,18.0 400.0,18.0 460.0,18.0 520.0,110.7 580.0,82.9 640.0,82.9" fill="none" stroke="#004165" stroke-width="2.5" stroke-linejoin="round"/>
       <circle cx="40.0" cy="18.0" r="4" fill="#004165">
          <title>2026-08-25T06:18:45.929Z — 11 node-level violations</title>
        </circle>
-<circle cx="106.7" cy="18.0" r="4" fill="#004165">
+<circle cx="100.0" cy="18.0" r="4" fill="#004165">
          <title>2026-08-26T01:17:59.065Z — 11 node-level violations</title>
        </circle>
-<circle cx="173.3" cy="110.7" r="4" fill="#004165">
+<circle cx="160.0" cy="110.7" r="4" fill="#004165">
          <title>2026-08-31T12:20:33.630Z — 1 node-level violations</title>
        </circle>
-<circle cx="240.0" cy="18.0" r="4" fill="#004165">
+<circle cx="220.0" cy="18.0" r="4" fill="#004165">
          <title>2026-09-07T11:14:55.420Z — 11 node-level violations</title>
        </circle>
-<circle cx="306.7" cy="18.0" r="4" fill="#004165">
+<circle cx="280.0" cy="18.0" r="4" fill="#004165">
          <title>2026-09-14T11:25:18.527Z — 11 node-level violations</title>
        </circle>
-<circle cx="373.3" cy="18.0" r="4" fill="#004165">
+<circle cx="340.0" cy="18.0" r="4" fill="#004165">
          <title>2026-09-21T11:38:32.490Z — 11 node-level violations</title>
        </circle>
-<circle cx="440.0" cy="18.0" r="4" fill="#004165">
+<circle cx="400.0" cy="18.0" r="4" fill="#004165">
          <title>2026-09-28T12:33:16.604Z — 11 node-level violations</title>
        </circle>
-<circle cx="506.7" cy="18.0" r="4" fill="#004165">
+<circle cx="460.0" cy="18.0" r="4" fill="#004165">
          <title>2026-10-05T13:13:59.753Z — 11 node-level violations</title>
        </circle>
-<circle cx="573.3" cy="110.7" r="4" fill="#004165">
+<circle cx="520.0" cy="110.7" r="4" fill="#004165">
          <title>2026-10-12T14:03:48.860Z — 1 node-level violations</title>
        </circle>
-<circle cx="640.0" cy="82.9" r="4" fill="#D74026">
+<circle cx="580.0" cy="82.9" r="4" fill="#004165">
          <title>2026-10-19T11:44:30.829Z — 4 node-level violations</title>
        </circle>
+<circle cx="640.0" cy="82.9" r="4" fill="#D74026">
+         <title>2026-10-26T12:00:58.900Z — 4 node-level violations</title>
+       </circle>
       <text x="40" y="142" class="axis">2026-08-25</text>
-      <text x="640" y="142" class="axis" text-anchor="end">2026-10-19</text>
+      <text x="640" y="142" class="axis" text-anchor="end">2026-10-26</text>
       <text x="648" y="86.9090909090909" class="axis">4</text>
     </svg></div>
 
@@ -187,7 +190,7 @@
   <thead><tr><th class="pg">Page</th><th class="n">Violations</th><th class="n">Needs review</th><th>Report</th></tr></thead>
   <tbody>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/ — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
+      <td class="pg"><span class="err">https://cncc.edu/ — <em>failed: Error: frame.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
       <td class="n">—</td><td class="n">—</td><td></td>
     </tr>
     <tr>
@@ -197,8 +200,10 @@
       <td class="links"><a class="pgrep" href="pages/about-accessibility-statement.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/about/accreditation — <em>failed: Error: frame.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/about/accreditation" rel="noopener">Loading https://cncc.edu/.well-known/sgcaptcha/?r=%2Fabout%2Faccreditation&amp;sol=MjE6MTc5MzAxNTgyMTo2YTVmYzU5ZDoxZmNlYjFhOGUyZTljMzUzNmMyZDMwMzgxNDUyMzNkOThhOGM1MzQzNDE5YWM3ZDYzYTI2NjA0ZWFjMjBlNTQ5OgF4hr0%3D&amp;s=2980:976190</a> <span class="pwurl">https://cncc.edu/about/accreditation</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/about-accreditation.html">Audit report</a></td>
     </tr>
     <tr>
       <td class="pg"><a href="https://cncc.edu/about/cncc_graduation_ceremonies" rel="noopener">CNCC Graduation Ceremonies</a> <span class="pwurl">https://cncc.edu/about/cncc_graduation_ceremonies</span></td>
@@ -207,25 +212,25 @@
       <td class="links"><a class="pgrep" href="pages/about-cncc-graduation-ceremonies.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/about/foundation/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/about/foundation/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/about/foundation/index" rel="noopener">Foundation</a> <span class="pwurl">https://cncc.edu/about/foundation/index</span></td>
       <td class="n">0</td>
-      <td class="n">0</td>
+      <td class="n">1</td>
       <td class="links"><a class="pgrep" href="pages/about-foundation-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/about/human-resources/career-opportunities" rel="noopener">Career Opportunities</a> <span class="pwurl">https://cncc.edu/about/human-resources/career-opportunities</span></td>
+      <td class="pg"><a href="https://cncc.edu/about/human-resources/career-opportunities" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/about/human-resources/career-opportunities</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/about-human-resources-career-opportunities.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/about/human-resources/index" rel="noopener">Human Resources</a> <span class="pwurl">https://cncc.edu/about/human-resources/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/about/human-resources/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/about/human-resources/index</span></td>
       <td class="n">0</td>
-      <td class="n">1</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/about-human-resources-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/about/index" rel="noopener">About</a> <span class="pwurl">https://cncc.edu/about/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/about/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/about/index</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/about-index.html">Audit report</a></td>
@@ -243,15 +248,15 @@
       <td class="links"><a class="pgrep" href="pages/about-locations.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/about/mission-vision-strategic-plan" rel="noopener">CNCC Mission, Vision &amp; Strategic Plan</a> <span class="pwurl">https://cncc.edu/about/mission-vision-strategic-plan</span></td>
+      <td class="pg"><a href="https://cncc.edu/about/mission-vision-strategic-plan" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/about/mission-vision-strategic-plan</span></td>
       <td class="n">0</td>
-      <td class="n">1</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/about-mission-vision-strategic-plan.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/about/president" rel="noopener">Office of the President</a> <span class="pwurl">https://cncc.edu/about/president</span></td>
+      <td class="pg"><a href="https://cncc.edu/about/president" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/about/president</span></td>
       <td class="n">0</td>
-      <td class="n">2</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/about-president.html">Audit report</a></td>
     </tr>
     <tr>
@@ -261,7 +266,7 @@
       <td class="links"><a class="pgrep" href="pages/academics-academic-advising.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/academics/academic-assessment" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/academics/academic-assessment</span></td>
+      <td class="pg"><a href="https://cncc.edu/academics/academic-assessment" rel="noopener">Academic Assessment</a> <span class="pwurl">https://cncc.edu/academics/academic-assessment</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/academics-academic-assessment.html">Audit report</a></td>
@@ -285,19 +290,17 @@
       <td class="links"><a class="pgrep" href="pages/academics-bookstore.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/academics/concurrent-enrollment/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/academics/concurrent-enrollment/index</span></td>
-      <td class="n">0</td>
-      <td class="n">0</td>
-      <td class="links"><a class="pgrep" href="pages/academics-concurrent-enrollment-index.html">Audit report</a></td>
+      <td class="pg"><span class="err">https://cncc.edu/academics/concurrent-enrollment/index — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
+      <td class="n">—</td><td class="n">—</td><td></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/academics/course-schedules" rel="noopener">Course Schedules</a> <span class="pwurl">https://cncc.edu/academics/course-schedules</span></td>
+      <td class="pg"><a href="https://cncc.edu/academics/course-schedules" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/academics/course-schedules</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/academics-course-schedules.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/academics/gateway" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/academics/gateway</span></td>
+      <td class="pg"><a href="https://cncc.edu/academics/gateway" rel="noopener">Gateway</a> <span class="pwurl">https://cncc.edu/academics/gateway</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/academics-gateway.html">Audit report</a></td>
@@ -339,29 +342,31 @@
       <td class="links"><a class="pgrep" href="pages/admissions-admissions-checklist.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/admissions/admissions-more" rel="noopener">Admissions &amp; More</a> <span class="pwurl">https://cncc.edu/admissions/admissions-more</span></td>
-      <td class="n">0</td>
-      <td class="n">0</td>
-      <td class="links"><a class="pgrep" href="pages/admissions-admissions-more.html">Audit report</a></td>
+      <td class="pg"><span class="err">https://cncc.edu/admissions/admissions-more — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
+      <td class="n">—</td><td class="n">—</td><td></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/admissions/apply" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/admissions/apply</span></td>
+      <td class="pg"><a href="https://cncc.edu/admissions/apply" rel="noopener">Apply to CNCC</a> <span class="pwurl">https://cncc.edu/admissions/apply</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/admissions-apply.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/admissions/apply-today — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/admissions/apply-today" rel="noopener">APPLY TODAY!</a> <span class="pwurl">https://cncc.edu/admissions/apply-today</span></td>
+      <td class="n">0</td>
+      <td class="n">1</td>
+      <td class="links"><a class="pgrep" href="pages/admissions-apply-today.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/admissions/bridge-to-bachelor-s-degree-program</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/admissions-bridge-to-bachelor-s-degree-program.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/admissions/financial-aid/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/admissions/financial-aid/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/admissions/financial-aid/index" rel="noopener">Financial Aid</a> <span class="pwurl">https://cncc.edu/admissions/financial-aid/index</span></td>
       <td class="n">0</td>
-      <td class="n">0</td>
+      <td class="n">1</td>
       <td class="links"><a class="pgrep" href="pages/admissions-financial-aid-index.html">Audit report</a></td>
     </tr>
     <tr>
@@ -383,7 +388,7 @@
       <td class="links"><a class="pgrep" href="pages/admissions-international-admissions.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/admissions/military-and-veterans" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/admissions/military-and-veterans</span></td>
+      <td class="pg"><a href="https://cncc.edu/admissions/military-and-veterans" rel="noopener">Military and Veterans</a> <span class="pwurl">https://cncc.edu/admissions/military-and-veterans</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/admissions-military-and-veterans.html">Audit report</a></td>
@@ -401,13 +406,13 @@
       <td class="links"><a class="pgrep" href="pages/admissions-tuition-and-costs.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/admissions/visit-cncc" rel="noopener">Visit Us</a> <span class="pwurl">https://cncc.edu/admissions/visit-cncc</span></td>
+      <td class="pg"><a href="https://cncc.edu/admissions/visit-cncc" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/admissions/visit-cncc</span></td>
       <td class="n">0</td>
-      <td class="n">1</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/admissions-visit-cncc.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/cncc_weather_conditions" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/cncc_weather_conditions</span></td>
+      <td class="pg"><a href="https://cncc.edu/cncc_weather_conditions" rel="noopener">CNCC Weather Conditions</a> <span class="pwurl">https://cncc.edu/cncc_weather_conditions</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/cncc-weather-conditions.html">Audit report</a></td>
@@ -419,9 +424,9 @@
       <td class="links"><a class="pgrep" href="pages/cncc-calendar.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/community/adult-basic-education/adult-basic-education-faq" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/community/adult-basic-education/adult-basic-education-faq</span></td>
+      <td class="pg"><a href="https://cncc.edu/community/adult-basic-education/adult-basic-education-faq" rel="noopener">Adult Basic Ed FAQ</a> <span class="pwurl">https://cncc.edu/community/adult-basic-education/adult-basic-education-faq</span></td>
       <td class="n">0</td>
-      <td class="n">0</td>
+      <td class="n">1</td>
       <td class="links"><a class="pgrep" href="pages/community-adult-basic-education-adult-basic-education-faq.html">Audit report</a></td>
     </tr>
     <tr>
@@ -431,15 +436,15 @@
       <td class="links"><a class="pgrep" href="pages/community-cncc-dental-clinic.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/community/index" rel="noopener">Community</a> <span class="pwurl">https://cncc.edu/community/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/community/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/community/index</span></td>
       <td class="n">0</td>
-      <td class="n">1</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/community-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/community/paleo/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/community/paleo/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/community/paleo/index" rel="noopener">Paleontology Summer Program</a> <span class="pwurl">https://cncc.edu/community/paleo/index</span></td>
       <td class="n">0</td>
-      <td class="n">0</td>
+      <td class="n">1</td>
       <td class="links"><a class="pgrep" href="pages/community-paleo-index.html">Audit report</a></td>
     </tr>
     <tr>
@@ -449,11 +454,13 @@
       <td class="links"><a class="pgrep" href="pages/community-salon-and-spa-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/community/study-abroad — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/community/study-abroad" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/community/study-abroad</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/community-study-abroad.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/community/summer-conference-housing" rel="noopener">Summer Conference Housing</a> <span class="pwurl">https://cncc.edu/community/summer-conference-housing</span></td>
+      <td class="pg"><a href="https://cncc.edu/community/summer-conference-housing" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/community/summer-conference-housing</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/community-summer-conference-housing.html">Audit report</a></td>
@@ -465,8 +472,10 @@
       <td class="links"><a class="pgrep" href="pages/community-waving-hands-archives.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/degrees/cte/rad-tech/index — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/degrees/cte/rad-tech/index" rel="noopener">Radiologic Technology</a> <span class="pwurl">https://cncc.edu/degrees/cte/rad-tech/index</span></td>
+      <td class="n">0</td>
+      <td class="n">1</td>
+      <td class="links"><a class="pgrep" href="pages/degrees-cte-rad-tech-index.html">Audit report</a></td>
     </tr>
     <tr>
       <td class="pg"><a href="https://cncc.edu/degrees/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/degrees/index</span></td>
@@ -481,7 +490,7 @@
       <td class="links"><a class="pgrep" href="pages/degrees-meta-majors-arts-humanities.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/aviation_transportation" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/aviation_transportation</span></td>
+      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/aviation_transportation" rel="noopener">Aviation &amp; Transportation</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/aviation_transportation</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/degrees-meta-majors-aviation-transportation.html">Audit report</a></td>
@@ -499,50 +508,55 @@
       <td class="links"><a class="pgrep" href="pages/degrees-meta-majors-health-sciences.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/degrees/meta-majors/prlea — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/prlea" rel="noopener">Park Ranger Law Enforcement Academy</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/prlea</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/degrees-meta-majors-prlea.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/science_mathematics" rel="noopener">Science &amp; Mathematics</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/science_mathematics</span></td>
+      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/science_mathematics" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/science_mathematics</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/degrees-meta-majors-science-mathematics.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/social_behavioral_science" rel="noopener">Social &amp; Behavioral Science</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/social_behavioral_science</span></td>
+      <td class="pg"><a href="https://cncc.edu/degrees/meta-majors/social_behavioral_science" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/degrees/meta-majors/social_behavioral_science</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/degrees-meta-majors-social-behavioral-science.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/degrees/online-degrees" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/degrees/online-degrees</span></td>
+      <td class="pg"><a href="https://cncc.edu/degrees/online-degrees" rel="noopener">Online Degrees</a> <span class="pwurl">https://cncc.edu/degrees/online-degrees</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/degrees-online-degrees.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/faculty-staff/directory/index — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation
- Please check out https://github.com/dequelabs/axe-core-npm/blob/deve</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/faculty-staff/directory/index" rel="noopener">Directory</a> <span class="pwurl">https://cncc.edu/faculty-staff/directory/index</span></td>
+      <td class="n">0</td>
+      <td class="n">1</td>
+      <td class="links"><a class="pgrep" href="pages/faculty-staff-directory-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/faculty-staff/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/faculty-staff/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/faculty-staff/index" rel="noopener">Faculty / Staff</a> <span class="pwurl">https://cncc.edu/faculty-staff/index</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/faculty-staff-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/faculty-staff/it-help-desk — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/faculty-staff/it-help-desk" rel="noopener">IT Help Desk</a> <span class="pwurl">https://cncc.edu/faculty-staff/it-help-desk</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/faculty-staff-it-help-desk.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/index" rel="noopener">Home</a> <span class="pwurl">https://cncc.edu/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/index</span></td>
       <td class="n">0</td>
-      <td class="n">2</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/news/cncc-corner-july2026" rel="noopener">CNCC Corner - July 2026</a> <span class="pwurl">https://cncc.edu/news/cncc-corner-july2026</span></td>
+      <td class="pg"><a href="https://cncc.edu/news/cncc-corner-july2026" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/news/cncc-corner-july2026</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/news-cncc-corner-july2026.html">Audit report</a></td>
@@ -560,19 +574,19 @@
       <td class="links"><a class="pgrep" href="pages/news-news-listing.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/news/nifa_flight_team_national_recognition" rel="noopener">CNCC NIFA Flight Team Achieves National Recognition</a> <span class="pwurl">https://cncc.edu/news/nifa_flight_team_national_recognition</span></td>
+      <td class="pg"><a href="https://cncc.edu/news/nifa_flight_team_national_recognition" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/news/nifa_flight_team_national_recognition</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/news-nifa-flight-team-national-recognition.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/news/nifa-nationals" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/news/nifa-nationals</span></td>
+      <td class="pg"><a href="https://cncc.edu/news/nifa-nationals" rel="noopener">CNCC Flight Team Qualifies for NIFA Nationals</a> <span class="pwurl">https://cncc.edu/news/nifa-nationals</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/news-nifa-nationals.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/news/prlea_enhances_training" rel="noopener">Park Ranger Law Enforcement Academy Enhances Training</a> <span class="pwurl">https://cncc.edu/news/prlea_enhances_training</span></td>
+      <td class="pg"><a href="https://cncc.edu/news/prlea_enhances_training" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/news/prlea_enhances_training</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/news-prlea-enhances-training.html">Audit report</a></td>
@@ -590,22 +604,20 @@
       <td class="links"><a class="pgrep" href="pages/student-life-bevavioral-health-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/student-life/consumer-information" rel="noopener">Consumer Information</a> <span class="pwurl">https://cncc.edu/student-life/consumer-information</span></td>
+      <td class="pg"><a href="https://cncc.edu/student-life/consumer-information" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/student-life/consumer-information</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/student-life-consumer-information.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/student-life/housing/index" rel="noopener">Living on Campus</a> <span class="pwurl">https://cncc.edu/student-life/housing/index</span></td>
+      <td class="pg"><a href="https://cncc.edu/student-life/housing/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/student-life/housing/index</span></td>
       <td class="n">0</td>
-      <td class="n">1</td>
+      <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/student-life-housing-index.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/student-life/housing/living-in-northwest-colorado" rel="noopener">Living in Northwest Colorado</a> <span class="pwurl">https://cncc.edu/student-life/housing/living-in-northwest-colorado</span></td>
-      <td class="n">0</td>
-      <td class="n">1</td>
-      <td class="links"><a class="pgrep" href="pages/student-life-housing-living-in-northwest-colorado.html">Audit report</a></td>
+      <td class="pg"><span class="err">https://cncc.edu/student-life/housing/living-in-northwest-colorado — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
+      <td class="n">—</td><td class="n">—</td><td></td>
     </tr>
     <tr class="bad">
       <td class="pg"><a href="https://cncc.edu/student-life/index" rel="noopener">Student Life</a> <span class="pwurl">https://cncc.edu/student-life/index</span></td>
@@ -626,7 +638,7 @@
       <td class="links"><a class="pgrep" href="pages/student-life-safety-campus-safety.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><a href="https://cncc.edu/student-life/safety/toknow" rel="noopener">Students Right to Know</a> <span class="pwurl">https://cncc.edu/student-life/safety/toknow</span></td>
+      <td class="pg"><a href="https://cncc.edu/student-life/safety/toknow" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/student-life/safety/toknow</span></td>
       <td class="n">0</td>
       <td class="n">0</td>
       <td class="links"><a class="pgrep" href="pages/student-life-safety-toknow.html">Audit report</a></td>
@@ -638,12 +650,16 @@
       <td class="links"><a class="pgrep" href="pages/student-life-student-leadership-clubs-organizations.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/student-life/student-leadership/student-leadership — <em>failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/student-life/student-leadership/student-leadership" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/student-life/student-leadership/student-leadership</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/student-life-student-leadership-student-leadership.html">Audit report</a></td>
     </tr>
     <tr>
-      <td class="pg"><span class="err">https://cncc.edu/students/index — <em>failed: Error: frame.evaluate: Execution context was destroyed, most likely because of a navigation</em></span></td>
-      <td class="n">—</td><td class="n">—</td><td></td>
+      <td class="pg"><a href="https://cncc.edu/students/index" rel="noopener">Robot Challenge Screen</a> <span class="pwurl">https://cncc.edu/students/index</span></td>
+      <td class="n">0</td>
+      <td class="n">0</td>
+      <td class="links"><a class="pgrep" href="pages/students-index.html">Audit report</a></td>
     </tr>
   </tbody>
 </table>
@@ -653,7 +669,7 @@
 <div class="datamenu">
   <a href="latest.json">latest.json</a>
   <a href="history.json">history.json</a>
-  <a href="https://github.com/ThirstyHead/cncc-audit/blob/main/reports/axe-2026-10-19T11-44-30-829Z.json">Raw report (latest)</a>
+  <a href="https://github.com/ThirstyHead/cncc-audit/blob/main/reports/axe-2026-10-26T12-00-58-900Z.json">Raw report (latest)</a>
   <a href="https://github.com/ThirstyHead/cncc-audit/tree/main/reports">All raw reports</a>
 </div>
 </div>
@@ -665,7 +681,7 @@
   Automated tooling detects only a subset of accessibility failures and does not replace
   manual or assistive-technology testing. “Needs manual review” items are results axe
   could not determine automatically.</p>
-  <p>Generated 2026-10-19T11:44:31.834Z · <a href="https://thirstyhead.com/cncc-audit/">thirstyhead.com/cncc-audit/</a></p>
+  <p>Generated 2026-10-26T12:00:59.599Z · <a href="https://thirstyhead.com/cncc-audit/">thirstyhead.com/cncc-audit/</a></p>
 </footer>
 </body>
 </html>
